@@ -1,0 +1,20 @@
+{
+    "name": "mantine-input-props",
+    "version": "0.0.1",
+    "license": "Proprietary",
+    "private": true,
+    "workspaces": [
+        "es/*"
+    ],
+    "scripts": {
+        "dev": "yarn workspace work dev",
+        "build": "yarn workspace work build",
+        "preview": "yarn workspace work preview",
+        "analyze": "yarn workspace work analyze"
+    },
+    "devDependencies": {
+        "typescript": "^4.7.3",
+        "vite": "^2.9.12"
+    },
+    "packageManager": "yarn@3.2.1"
+}

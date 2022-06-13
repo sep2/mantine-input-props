@@ -1,0 +1,1 @@
+# mantine input props exception
